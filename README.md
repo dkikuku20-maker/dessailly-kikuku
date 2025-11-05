@@ -43,7 +43,7 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 - 🔍 **Data-Driven Decision Making:** Skilled at uncovering patterns, validating complex datasets, and transforming data into actionable insights .  
 - 🎨 **Insightful Visualization:** Experienced in Tableau, Power BI, and Python to design visuals that make complex information easy to understand and impactful.  
 - 🤖 **AI & Machine Learning Support:** Hands-on involvement in data governance and model validation for global AI/ML projects.  
-- 💬 **Collaborative Communicator:** Able to translate technical findings into clear, audience-focused reports for diverse research and community initiatives.  
+- 💬 **Collaborative Communicator:** Math and Science tutor. Able to translate technical findings into clear, audience-focused reports for diverse research and community initiatives.  
 - 🚀 **Lifelong Learner:** Continuously expanding knowledge across analytics, ML engineering, and social impact research to create inclusive, Business Insights, data-informed solutions.
 
 ---
