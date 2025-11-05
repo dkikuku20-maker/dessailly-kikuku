@@ -70,4 +70,4 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 </p>
 
 
-🌟 _Feel free to reach out—I'm always open to discussing exciting projects, new ideas, and collaboration opportunities!_ 🌟
+🌟 _Feel free to reach out—I'm always open to discussing exciting projects, new ideas, and collaboration opportunities!_ 
