@@ -4,7 +4,7 @@
 
 Hi there! 👋 Transforming data into actionable insights that drive business and social impact.
 
-_**Data is not just numbers; it's the key to smarter decisions and better outcomes.**_
+_**Where logic meets learning — and data drives discovery.**_
 
 ---
 
@@ -16,7 +16,7 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 | :-: | :-: | :-: |
 | Python | SQL | R |
 
-### **Frameworks and Libraries**
+### **Where logic meets learning — and data drives discovery.**
 
 | ![pandas](https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png&color=000000) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/> |
 | :-: | :-: | :-: | :-: | :-: |
@@ -37,7 +37,7 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 
 ---
 
-## 🌟 What I Bring
+## 🌟 How I Add Value
 
 - 🎓 **Strong Analytical Foundation:** Dual background in Mathematics, Computing Science, Sociology and Economics — combining technical precision with real-world problem-solving.  
 - 🔍 **Data-Driven Decision Making:** Skilled at uncovering patterns, validating complex datasets, and transforming data into actionable insights .  
@@ -70,4 +70,4 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 </p>
 
 
-🌟 _Feel free to reach out—I'm always open to discussing exciting projects, new ideas, and collaboration opportunities!_ 
+🌟 _Open to collaborations, insights, and conversations that turn ideas into impact._ 
