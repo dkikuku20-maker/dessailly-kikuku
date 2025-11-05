@@ -45,7 +45,14 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 - 🚀 **Lifelong Learner:** Continuously expanding knowledge across analytics, ML engineering, and social impact research to create inclusive, data-informed solutions.
 
 ---
----
+
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [d.kikuku20@gmail.com](mailto:d.kikuku20@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/dessailly-k-3504562a6](https://www.linkedin.com/in/dessailly-k-3504562a6)  
+- 🐙 **GitHub:** [github.com/dkikuku20-maker](https://github.com/dkikuku20-maker)  
+- 📊 **Tableau:** [public.tableau.com/app/profile/dessailly.kikuku](https://public.tableau.com/app/profile/dessailly.kikuku)
 
 ---
 
