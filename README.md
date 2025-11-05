@@ -1,6 +1,6 @@
 # 👨‍💻 Dessailly Kikuku
 
-### Data Analyst | Python | SQL | Tableau | Machine Learning
+### Data Analyst | Python | SQL | Tableau | R | Machine Learning 
 
 Hi there! 👋 Transforming data into actionable insights that drive business and social impact.
 
@@ -37,10 +37,12 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 
 ## 🌟 What I Bring
 
-- 🔍 **Analytical Mindset**: Expert at identifying patterns and solving complex problems with 99.2% accuracy on QA protocols for 50,000+ data points weekly
-- 🎨 **Data Visualization**: Skilled in designing impactful visualizations using Tableau and Python libraries to convey insights from complex datasets
-- 🚀 **Proven Impact**: Reduced data errors by 75%, increased operational efficiency by 40%, and delivered high-volume analyses under strict quality standards
-- 📊 **ML & AI Experience**: Supporting AI/ML projects for organizations including Meta, OpenAI, and Global Foundation of Canada with expertise in data annotation, NLP preprocessing, and model validation
+- 🎓 **Strong Analytical Foundation:** Dual background in Mathematics, Computing Science, Sociology and Economics — combining technical precision with real-world problem-solving.  
+- 🔍 **Data-Driven Decision Making:** Skilled at uncovering patterns, validating complex datasets, and transforming data into actionable insights .  
+- 🎨 **Insightful Visualization:** Experienced in Tableau, Power BI, and Python to design visuals that make complex information easy to understand and impactful.  
+- 🤖 **AI & Machine Learning Support:** Hands-on involvement in data governance and model validation for global AI/ML projects.  
+- 💬 **Collaborative Communicator:** Able to translate technical findings into clear, audience-focused reports for diverse research and community initiatives.  
+- 🚀 **Lifelong Learner:** Continuously expanding knowledge across analytics, ML engineering, and social impact research to create inclusive, data-informed solutions.
 
 ---
 
