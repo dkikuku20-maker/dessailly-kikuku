@@ -47,11 +47,18 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 ---
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/dkikuku"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dkikuku&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Dessailly's GitHub stats" /></a> | <a href="https://github.com/dkikuku"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkikuku&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/dkikuku20-maker"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dkikuku20-maker&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Dessailly's GitHub stats" /></a> | <a href="https://github.com/dkikuku20-maker"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkikuku20-maker&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dkikuku20-maker&label=Profile%20views&color=0e75b6&style=flat" alt="dkikuku20-maker" />
+</p>
+
 
 🌟 _Feel free to reach out—I'm always open to discussing exciting projects, new ideas, and collaboration opportunities!_ 🌟
