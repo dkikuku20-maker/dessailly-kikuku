@@ -24,9 +24,9 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 
 ### **Tools & Technologies**
 
-| ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | ![Excel](https://img.icons8.com/?size=48&id=117561&format=png&color=000000) | ![Git](https://img.icons8.com/color/48/000000/git.png) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/> | ![Google Analytics](https://img.icons8.com/color/48/000000/google-analytics.png) |
-| :-: | :-: | :-: | :-: | :-: |
-| Tableau | Excel | Git | Jupyter | Google Analytics |
+| ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | ![Excel](https://img.icons8.com/?size=48&id=117561&format=png&color=000000) | ![Git](https://img.icons8.com/color/48/000000/git.png) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/> | ![Google Analytics](https://img.icons8.com/color/48/000000/google-analytics.png) | ![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png) | ![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Tableau | Excel | Git | Jupyter | Google Analytics | Google Colab | Google Sheets |
 
 ### **Operating Systems**
 
