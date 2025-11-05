@@ -29,9 +29,9 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 
 ### **Operating Systems**
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" width="48" height="48" alt="Windows"/> |
-| :-: | :-: |
-| Linux | Windows |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" width="48" height="48" alt="Windows"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="48" height="48" alt="macOS"/> |
+| :-: | :-: | :-: |
+| Linux | Windows | macOS |
 
 ---
 
