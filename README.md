@@ -22,10 +22,11 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 | :-: | :-: | :-: | :-: | :-: |
 | pandas | NumPy | matplotlib | seaborn | scikit-learn |
 
-### **Tools & Technologies**
-| ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | ![Excel](https://img.icons8.com/?size=48&id=117561&format=png&color=000000) | ![Git](https://img.icons8.com/color/48/000000/git.png) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/> | ![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png) | ![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png) | ![Overleaf](https://img.icons8.com/color/48/000000/latex.png) |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Tableau | Excel | Git | Jupyter | Google Colab | Google Sheets | Overleaf (LaTeX) |
+### **Tools & Technologies**### **Tools & Technologies**
+| ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | ![Excel](https://img.icons8.com/?size=48&id=117561&format=png&color=000000) | ![Git](https://img.icons8.com/color/48/000000/git.png) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/> | ![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png) | ![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png) | ![Overleaf](https://img.icons8.com/color/48/000000/latex.png) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Tableau | Power BI | Excel | Git | Jupyter | Google Colab | Google Sheets | Overleaf (LaTeX) |
+
 
 ### **Operating Systems**
 
@@ -42,7 +43,7 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 - 🎨 **Insightful Visualization:** Experienced in Tableau, Power BI, and Python to design visuals that make complex information easy to understand and impactful.  
 - 🤖 **AI & Machine Learning Support:** Hands-on involvement in data governance and model validation for global AI/ML projects.  
 - 💬 **Collaborative Communicator:** Able to translate technical findings into clear, audience-focused reports for diverse research and community initiatives.  
-- 🚀 **Lifelong Learner:** Continuously expanding knowledge across analytics, ML engineering, and social impact research to create inclusive, data-informed solutions.
+- 🚀 **Lifelong Learner:** Continuously expanding knowledge across analytics, ML engineering, and social impact research to create inclusive, Business Insights, data-informed solutions.
 
 ---
 
