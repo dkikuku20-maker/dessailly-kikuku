@@ -45,12 +45,12 @@ _**Data is not just numbers; it's the key to smarter decisions and better outcom
 - 🚀 **Lifelong Learner:** Continuously expanding knowledge across analytics, ML engineering, and social impact research to create inclusive, data-informed solutions.
 
 ---
+---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- 📧 **Email**: [d.kikuku20@gmail.com](mailto:d.kikuku20@gmail.com)
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/dessailly-k-3504562a6](https://www.linkedin.com/in/dessailly-k-3504562a6)
-- 🐙 **GitHub**: [https://github.com/dessailly-kikuku](https://github.com/dessailly-kikuku)
+| <a href="https://github.com/dkikuku"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dkikuku&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Dessailly's GitHub stats" /></a> | <a href="https://github.com/dkikuku"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkikuku&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
