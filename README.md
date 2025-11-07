@@ -1,6 +1,6 @@
 # 👨‍💻 Dessailly Kikuku
 
-### Data Analyst | Python | SQL | Tableau | R | Machine Learning 
+### Data Scientist & Analyst | Python | SQL | Tableau | R | Machine Learning 
 
 Hi there!  Transforming data into actionable insights that drive business and social impact.
 
